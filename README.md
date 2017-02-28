@@ -13,12 +13,12 @@ __Completed so far:__
 9. Sinatra: Views
 10. Sinatra: ERB
 11. Sinatra: Keeping views clean
-
-**To be completed:**
-
 12. Sinatra: Introducing `params`
 13. Sinatra: Using forms
 14. Sinatra: `post`ed `params`
+
+**To be completed:**
+
 15. Sinatra: Using the Chrome dev tools
 16. Testing with Capybara
 17. Getting started with Battle
