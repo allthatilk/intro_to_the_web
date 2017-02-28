@@ -10,10 +10,10 @@ __Completed so far:__
 6. Sinatra: Defining a route
 7. Sinatra: Start and restart
 8. Sinatra: Returning HTML
+9. Sinatra: Views
 
 **To be completed:**
 
-9. Sinatra: Views
 10. Sinatra: ERB
 11. Sinatra: Keeping views clean
 12. Sinatra: Introducing `params`
