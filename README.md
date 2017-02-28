@@ -16,12 +16,12 @@ __Completed so far:__
 12. Sinatra: Introducing `params`
 13. Sinatra: Using forms
 14. Sinatra: `post`ed `params`
+15. Sinatra: Using the Chrome dev tools
+16. Testing with Capybara
+17. Getting started with Battle(https://github.com/allthatilk/Battle)
 
 **To be completed:**
 
-15. Sinatra: Using the Chrome dev tools
-16. Testing with Capybara
-17. Getting started with Battle
 18. Entering Players
 19. POST/`redirect`/GET pattern
 20. Viewing hit points
