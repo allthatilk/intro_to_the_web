@@ -12,10 +12,10 @@ __Completed so far:__
 8. Sinatra: Returning HTML
 9. Sinatra: Views
 10. Sinatra: ERB
+11. Sinatra: Keeping views clean
 
 **To be completed:**
 
-11. Sinatra: Keeping views clean
 12. Sinatra: Introducing `params`
 13. Sinatra: Using forms
 14. Sinatra: `post`ed `params`
