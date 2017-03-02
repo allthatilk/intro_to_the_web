@@ -19,14 +19,14 @@ __Completed so far:__
 15. Sinatra: Using the Chrome dev tools
 16. Testing with Capybara
 17. Getting started with Battle(https://github.com/allthatilk/Battle)
-
-**To be completed:**
-
 18. Entering Players
 19. POST/`redirect`/GET pattern
 20. Viewing hit points
 21. Test helpers
 22. Attacking Player 2
+
+**To be completed:**
+
 23. Extracting logic to the model
 24. Implementing hit points
 25. Single Responsiblity Principle, anyone?
