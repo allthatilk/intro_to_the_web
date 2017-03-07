@@ -24,13 +24,13 @@ __Completed so far:__
 20. Viewing hit points
 21. Test helpers
 22. Attacking Player 2
-
-**To be completed:**
-
 23. Extracting logic to the model
 24. Implementing hit points
 25. Single Responsiblity Principle, anyone?
 26. Skinny controllers
+
+**To be completed:**
+
 27. Switching turns
 28. Multiplayer
 29. Losing and winning
